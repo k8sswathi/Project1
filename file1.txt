@@ -1,2 +1,2 @@
-this is a new file in main branch
- this is a new file in feature branch -conflict123
+this is a new file in main branch line updated
+ this is a new file in feature branch -conflict1234
