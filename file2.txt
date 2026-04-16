@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-today is thursday@2026
-=======
-today is thursday
->>>>>>> feature
-this is thursday
+today is thursday@ April
+
