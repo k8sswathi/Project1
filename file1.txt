@@ -6,3 +6,4 @@ line added
 =======
  this is a new file in feature branch -conflict123
 >>>>>>> feature
+ added a line
